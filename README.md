@@ -27,5 +27,5 @@ Feel free to reach out or check out my projects!
 ---
 
 <div align="center">
-  <i>Happy Coding! 🚀</i>
+  <i>Happy Coding! 🌑</i>
 </div>
