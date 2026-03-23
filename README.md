@@ -2,10 +2,11 @@
 
 ## About Me
 
-🎓 Currently a second-year engineering prep school student (classe préparatoire) in France
-💻 Passionate about software development and computer science
-🌱 Always learning and exploring new technologies
-🚀 Building projects to sharpen my skills and solve real-world problems
+
+<p> 🎓 Currently a second-year engineering prep school student (classe préparatoire) in France </p>
+<p> 💻 Passionate about software development and computer science </p>
+<p> 🌱 Always learning and exploring new technologies </p>
+<p> 🚀 Building projects to sharpen my skills and solve real-world problems </p>
 
 ## GitHub Stats
 
